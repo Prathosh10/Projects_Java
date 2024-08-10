@@ -1,0 +1,6 @@
+8134.0
+FOOD#chicken rice#100.0
+ENTERTAINMENT#Kalki#200.0
+ENTERTAINMENT#ball#200.0
+CLOTHES#jeans#700.0
+OTHERS#mobile recharge#666.0
