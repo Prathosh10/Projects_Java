@@ -1,0 +1,45 @@
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+add
+The card :
+vijay
+The definition of the card:
+GOAT
+The pair ("vijay" : "GOAT ") has been added.
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+add
+The card :
+Ajith
+The definition of the card:
+Deena
+The pair ("Ajith" : "Deena ") has been added.
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+export
+File name :
+savedData
+2 cards have been saved!
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+remove
+Which card ?
+vijay
+The card has been removed.
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+import
+File name :
+savedData
+2 cards have been loaded.
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+import
+File name :
+savedData
+3 cards have been loaded.
+
+ Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats)
+log
+File name :
+history
